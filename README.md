@@ -1,11 +1,11 @@
-🚀 SmartQueue – Full Stack Web Application
+**🚀 SmartQueue – Full Stack Web Application**
 
 SmartQueue is a modern, high-performance full stack web application built to deliver a smooth, scalable, and intuitive user experience. The project is designed with a clean architecture, responsive UI, and optimized frontend performance.
 
 This application follows best development practices and focuses on maintainability, scalability, and developer-friendly structure.
 
 
-📌 Project Overview
+**📌 Project Overview**
 
 SmartQueue is a production-ready web application created using a modern frontend stack. The goal of this project is to demonstrate real-world frontend architecture, reusable components, responsive layouts, and clean UI/UX principles.
 
@@ -21,7 +21,7 @@ Clean folder structure
 
 Scalable and maintainable codebase
 
-⚙️ Tech Stack
+**⚙️ Tech Stack**
 
 Vite
 
@@ -33,7 +33,7 @@ shadcn-ui
 
 Tailwind CSS
 
-📂 Getting Started (Local Setup)
+**📂 Getting Started (Local Setup)**
 
 Follow these steps to run the project locally:
 
@@ -66,11 +66,11 @@ src/
 npm run build
 
 
-Preview production build:
+**Preview production build:**
 
 npm run preview
 
-🌍 Deployment
+**🌍 Deployment**
 
 The project can be deployed on platforms such as:
 
