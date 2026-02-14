@@ -53,11 +53,6 @@ Start the development server:
 
 npm run dev
 
-
-The app will be available at:
-
-http://localhost:5173
-
 📁 Project Structure
 src/
  ├── components/     // Reusable UI components
