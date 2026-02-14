@@ -1,73 +1,73 @@
-# Welcome to your Lovable project
+🚀 SmartQueue
 
-## Project info
+SmartQueue is a modern queue management web application built to simplify how waiting lines are handled in real-world environments.
 
-**URL**: https://lovable.dev/projects/78393316-fc45-4e3a-abed-d50cbbb5c227
+Instead of traditional manual systems, SmartQueue provides a structured and efficient way to create, manage, and monitor queues through a clean digital interface.
 
-## How can I edit this code?
+The focus of this project is simplicity, performance, and scalability.
 
-There are several ways of editing your application.
+✨ What It Does
 
-**Use Lovable**
+Allows users to create and manage queues
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/78393316-fc45-4e3a-abed-d50cbbb5c227) and start prompting.
+Tracks queue status dynamically
 
-Changes made via Lovable will be committed automatically to this repo.
+Provides a responsive and smooth user interface
 
-**Use your preferred IDE**
+Maintains a clean and modular codebase
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Designed to scale with additional features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🛠 Built With
 
-Follow these steps:
+React
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+TypeScript
+
+Vite
+
+Tailwind CSS
+
+shadcn-ui
+
+Node.js
+
+⚙️ Running the Project Locally
+
+Clone the repository:
+
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+Navigate into the folder:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+cd SmartQueue
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+The app will be available at:
 
-**Use GitHub Codespaces**
+http://localhost:5173
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📁 Project Structure
+src/
+ ├── components/     // Reusable UI components
+ ├── pages/          // Application views
+ ├── hooks/          // Custom React hooks
+ ├── utils/          // Helper functions
+ └── main.tsx        // Entry point
 
-## What technologies are used for this project?
+📌 Why This Project
 
-This project is built with:
+SmartQueue was built with the idea of solving a simple but common problem — managing queues efficiently.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/78393316-fc45-4e3a-abed-d50cbbb5c227) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+The architecture is intentionally kept clean and extendable so new features like analytics, admin controls, or real-time notifications can be added easily.
