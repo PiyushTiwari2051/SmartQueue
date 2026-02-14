@@ -1,4 +1,4 @@
-🚀 SmartQueue
+🚀 **SmartQueue**
 
 SmartQueue is a modern queue management web application built to simplify how waiting lines are handled in real-world environments.
 
